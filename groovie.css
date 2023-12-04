@@ -19,6 +19,29 @@ body {
     padding-left: 1rem;
     padding-right: 1rem;
 }
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mainimg {
+    background-color: #1997a8;
+    background-image: url("/images/cpt2el.jpg");
+    color: rgb(249, 244, 244);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
+.container2 {
+        max-width: 960px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 1rem;
+        padding-right: 1rem;
+
+}
+
+
 
 .active {
     overflow: hidden;
@@ -28,7 +51,7 @@ body {
 .tophead {
     margin: 0;
     padding-top: 1rem;
-    font-size: 10vh;
+    font-size: 50px;
     background-color: aqua;
     color: blueviolet;
 }
