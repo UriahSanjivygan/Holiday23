@@ -25,7 +25,7 @@ body {
 }
 .mainimg {
     background-color: #1997a8;
-    background-image: url("/images/cpt2el.jpg");
+    background-image: url("images/cpt2el.jpg");
     color: rgb(249, 244, 244);
     background-size: cover;
     background-blend-mode: multiply;
