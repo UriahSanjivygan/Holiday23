@@ -1,13 +1,23 @@
 body {
     margin: 0;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mainpg {
+    color: black;
+    padding-left: 200px;
+}
+.mainpg1 {
+    color: black;
+    padding-left: 250px;
 }
 
 .eastLondon {
-    background-color: #1997a8;
+    background-color: #709fa4;
     background-image: url("beach-sunset.jpg");
-    color: rgb(249, 244, 244);background-size: cover;
-    background-blend-mode: multiply;
+    color: rgb(19, 18, 18);
+    background-size: cover;
+    background-blend-mode: lighten;
     padding-top: 50px;
     padding-bottom: 200px;
 }
@@ -19,14 +29,11 @@ body {
     padding-left: 1rem;
     padding-right: 1rem;
 }
-body {
-    margin: 0;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
+
 .mainimg {
-    background-color: #1997a8;
+    background-color: #a8dbe2;
     background-image: url("cpt2el.jpg");
-    color: rgb(249, 244, 244);
+    color: rgb(211, 11, 11);
     background-size: cover;
     background-blend-mode: multiply;
     padding-top: 50px;
@@ -41,7 +48,43 @@ body {
 
 }
 
+.pemain {
+    background-color: #0b7381;
+    background-image: url("PE2.jpg");
+    color: rgb(142, 123, 123);
+    background-size: cover;
+    background-blend-mode: lighten;
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
 
+.container3 {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
+
+.wilderness {
+    background-color: #068090;
+    background-image: url("wild1.jpg");
+    color: rgb(216, 43, 43);
+    background-size: cover;
+    background-blend-mode: lighten;
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
+
+.container4 {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
 
 .active {
     overflow: hidden;
@@ -49,10 +92,10 @@ body {
 }
 
 .tophead {
+    text-align: center;
     margin: 0;
     padding-top: 1rem;
     font-size: 50px;
     background-color: aqua;
     color: blueviolet;
 }
-
