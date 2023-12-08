@@ -14,7 +14,7 @@ body {
 
 .eastLondon {
     background-color: #709fa4;
-    background-image: url("beach-sunset.jpg");
+    background-image: url("../images/beach-sunset.jpg");
     color: rgb(19, 18, 18);
     background-size: cover;
     background-blend-mode: lighten;
@@ -32,7 +32,7 @@ body {
 
 .mainimg {
     background-color: #a8dbe2;
-    background-image: url("cpt2el.jpg");
+    background-image: url("/images/cpt2el.jpg");
     color: rgb(211, 11, 11);
     background-size: cover;
     background-blend-mode: multiply;
@@ -69,7 +69,7 @@ body {
 
 .wilderness {
     background-color: #068090;
-    background-image: url("wild1.jpg");
+    background-image: url("/images/wild1.jpg");
     color: rgb(216, 43, 43);
     background-size: cover;
     background-blend-mode: lighten;
